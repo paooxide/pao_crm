@@ -24,7 +24,7 @@ date_default_timezone_set("Africa/Lagos");
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://127.0.0.2/ped/';
+$config['base_url'] = 'http://127.0.0.1/new_city/private_repo/pao_crm/';
 
 /*
 |--------------------------------------------------------------------------
